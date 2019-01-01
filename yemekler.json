@@ -2,7 +2,7 @@
 
 {
 
-"yemek_id:1,
+"yemek_id":1,
 "yemek_adi":"Patates",
 "yemeka_aciklama":"patates ve su",
 "yemek_tur":"haslama",
@@ -15,7 +15,7 @@
 },
 {
 
-"yemek_id:2,
+"yemek_id":2,
 "yemek_adi":"Doe",
 "yemeka_aciklama":"Doe",
 "yemek_tur":"Doe",
@@ -28,7 +28,7 @@
 },
 {
 
-"yemek_id:3,
+"yemek_id":3,
 "yemek_adi":"Doe",
 "yemeka_aciklama":"Doe",
 "yemek_tur":"Doe",
@@ -41,7 +41,7 @@
 },
 {
 
-"yemek_id:4,
+"yemek_id":4,
 "yemek_adi":"Doe",
 "yemeka_aciklama":"Doe",
 "yemek_tur":"Doe",
@@ -54,7 +54,7 @@
 },
 {
 
-"yemek_id:5,
+"yemek_id":5,
 "yemek_adi":"Doe",
 "yemeka_aciklama":"Doe",
 "yemek_tur":"Doe",
