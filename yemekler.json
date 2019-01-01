@@ -4,7 +4,7 @@
 
 "yemek_id:1,
 "yemek_adi":"Patates",
-"yemeka_ciklama":"patates ve su",
+"yemeka_aciklama":"patates ve su",
 "yemek_tur":"haslama",
 "yemek_pisirme_suresi":"Doe",
 "yemek_hazirlama_suresi":"Doe",
@@ -17,7 +17,7 @@
 
 "yemek_id:2,
 "yemek_adi":"Doe",
-"yemeka_ciklama":"Doe",
+"yemeka_aciklama":"Doe",
 "yemek_tur":"Doe",
 "yemek_pisirme_suresi":"Doe",
 "yemek_hazirlama_suresi":"Doe",
@@ -30,7 +30,7 @@
 
 "yemek_id:3,
 "yemek_adi":"Doe",
-"yemeka_ciklama":"Doe",
+"yemeka_aciklama":"Doe",
 "yemek_tur":"Doe",
 "yemek_pisirme_suresi":"Doe",
 "yemek_hazirlama_suresi":"Doe",
@@ -43,7 +43,7 @@
 
 "yemek_id:4,
 "yemek_adi":"Doe",
-"yemeka_ciklama":"Doe",
+"yemeka_aciklama":"Doe",
 "yemek_tur":"Doe",
 "yemek_pisirme_suresi":"Doe",
 "yemek_hazirlama_suresi":"Doe",
@@ -56,7 +56,7 @@
 
 "yemek_id:5,
 "yemek_adi":"Doe",
-"yemeka_ciklama":"Doe",
+"yemeka_aciklama":"Doe",
 "yemek_tur":"Doe",
 "yemek_pisirme_suresi":"Doe",
 "yemek_hazirlama_suresi":"Doe",
